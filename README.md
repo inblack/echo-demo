@@ -1,2 +1,2 @@
 # echo-demo
-A short demo for echo 
+A short Alexa demo for echo 
